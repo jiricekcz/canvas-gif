@@ -1,0 +1,22 @@
+{
+  "name": "canvas-gif",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiricekcz/canvas-gif.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiricekcz/canvas-gif/issues"
+  },
+  "homepage": "https://github.com/jiricekcz/canvas-gif#readme",
+  "dependencies": {
+    "@types/dom-mediacapture-record": "^1.0.13"
+  }
+}
